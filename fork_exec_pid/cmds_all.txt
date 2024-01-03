@@ -1,0 +1,8 @@
+ls -la
+sleep 1 &
+ls &
+ps aux
+cat cmds.txt
+sleep 1 &
+sleep 1 &
+ps
